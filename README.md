@@ -40,7 +40,7 @@
 - How can we design E.O. (Electro-Optical)→SAR image-transfer and domain-adaptation methods that preserve SAR-specific physical and statistical properties (e.g., speckle, polarization, radiometric and phase characteristics) using physics-aware generative models and domain-aware learning to improve SAR object detection and segmentation?
   
 ### Additional Information
-If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/kisoo_cv.pdf)
+If you want to see more information about me, here is my [**CV 📥**]()
 
 <div>
 

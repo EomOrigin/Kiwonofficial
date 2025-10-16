@@ -25,7 +25,8 @@
 - B.S. in School of Computer Science, Hanbat National University `2023.03 ~ `
 
 ### 🔭 Internships
-- Undergraduate Researcher in AIM Lab, Hanbat National University `2024.02 ~ `
+- Undergraduate Researcher — [AIM Lab, Hanbat National University](https://sites.google.com/view/aim-lab-hbnu/home) `2024.02 ~`
+
 
 ### ⚡ ExtraCurricular Activity
 

@@ -84,8 +84,6 @@ Here is [my dacon profile page](https://dacon.io/myprofile/497780/home). I'm sti
 - 산불탐지 경진대회  **3rd place in Private Score, Top 5 in Final**
 
   
-[![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
-
   <!--
 **Kiwonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

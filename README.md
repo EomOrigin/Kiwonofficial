@@ -37,8 +37,8 @@
 - Team Member of Volunteer Club 'ssnb_hbnu' ```2025.03 ~ 2025.08```
 
 ### Challenge
-- When decomposing an irregular tensor where one axis is related to time, how can we effectively reflect both local patterns and global patterns in the time series to achieve fast and accurate decomposition?
-- How can we effectively capture local and global patterns in time series data using ML/DL?
+- How can we design E.O. (Electro-Optical)→SAR image-transfer and domain-adaptation methods that preserve SAR-specific physical and statistical properties (e.g., speckle, polarization, radiometric and phase characteristics) using physics-aware generative models and domain-aware learning to improve SAR object detection and segmentation?
+  
 ### Additional Information
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/kisoo_cv.pdf)
 
@@ -77,12 +77,8 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
 ## 🏆 Dacon competitions
 Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm still have so much to develop.
 - 🏅 데이콘 Basic 여행 상품 신청 여부 예측 경진대회 - **2nd placed (2/357)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
-- 🏅 데이콘 Basic 풍력 발전 예측 AI 경진대회 - **2nd placed (2/129)** [[overview](https://dacon.io/competitions/official/236066/overview/description)] [[code](https://dacon.io/competitions/official/236066/codeshare/7738?page=1&dtype=recent)]
-- 🏅 데이콘 Basic 자동차 가격 예측 경진대회 - **3rd placed (3/262)** [[overview](https://dacon.io/competitions/official/236114/overview/description)][[code](https://dacon.io/competitions/official/236114/codeshare/8456?page=1&dtype=recent)]
-- 🏅 데이콘 Basic 축구선수 유망여부 예측 경진대회 - **3rd placed (3/89)** [[overview](https://dacon.io/competitions/open/236031/overview/description)][[code](https://dacon.io/competitions/open/236031/codeshare/7115?page=1&dtype=recent)]
 - 🥉 SW중심대학 공동 AI 경진대회 예선 - **Top 5% (8/192)** [[overview](https://dacon.io/competitions/official/235902/overview/description)][[code](https://dacon.io/competitions/official/235902/codeshare/6157?page=1&dtype=vote)]
-- 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)][[code](https://dacon.io/competitions/official/236056/codeshare/7526?page=1&dtype=recent)]
-- 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
+
 
 ## 🏆 Other Competitions
 - LG Aimers 4th  **3rd place in Private Score, Top 5 in Final**

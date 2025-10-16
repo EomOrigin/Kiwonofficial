@@ -15,25 +15,22 @@
 
 ## 🔭About me
 
+### 😄 Interests
+- Computer Vision
+- SAR Object Detection / Segmentation
+- Digital Forensics
+- Machine Learning / Deep Learning
+
 ### :mortar_board: Education
-- Integrated Ph.D. Interdisciplinary Program in Artificial Intelligence, Seoul National University ```2024.03 ~ ```
-- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
+- B.S. in School of Computer Science, Hanbat National University `2023.03 ~ `
 
 ### 🔭 Internships
-- Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ 2023.07`
+- Undergraduate Research Student in AIM Lab, Hanbat National University `2024.02 ~ `
 
 ### ⚡ ExtraCurricular Activity
 
-- Team Member of the Data Visualization in Boaz Advance Session, Big Data Alliance Club ```2023.07 ~ 2024.01```
-- Team Member of the Data Visualization & Data Analytics in Boaz Base Session, Big Data Alliance Club ```2023.01 ~ 2023.06```
-- Administrator of Student Association Presentation Club SPLING 47th ```2022.01 ~ 2022.06```
-- Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
-- Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
+- Team Member of Volunteer Club 'ssnb_hbnu' ```2025.03 ~ 2025.08```
 
-### 😄 Interests
-- Time Series Analysis & Irregular tensor decomposition
-- Machine Learning / Deep Learning
-- Recommendation system
 ### Challenge
 - When decomposing an irregular tensor where one axis is related to time, how can we effectively reflect both local patterns and global patterns in the time series to achieve fast and accurate decomposition?
 - How can we effectively capture local and global patterns in time series data using ML/DL?

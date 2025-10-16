@@ -63,8 +63,6 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
   <img src="https://img.shields.io/badge/Cursor-111827?style=flat-square&logo=cursor&logoColor=white" alt="cursor"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeXL-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/W%26B-FF7B00?style=flat-square&logo=wandb&logoColor=white" alt="wandb"/>
 

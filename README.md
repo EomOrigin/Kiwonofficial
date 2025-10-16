@@ -3,7 +3,7 @@
 # Hi I'm Kiwon Eom, I'm a dreamer of studying ML/DL. <br>Also, I'm a light fan of team Barcelona.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiwonofficial)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=kiwonofficial&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=kiwon_official&fontSize=80)
 
 
 </div>

@@ -27,6 +27,10 @@
 ### 🔭 Internships
 - Undergraduate Researcher — [AIM Lab](https://sites.google.com/view/aim-lab-hbnu/home), Hanbat National University `2024.02 ~`
 
+### 📚 Publications
+
+- **Kiwon Eom**, Dongsu Kim, Tae-Woo Oh, Han Eol Jang. *ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.* _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)
+
 
 ### ⚡ ExtraCurricular Activity
 

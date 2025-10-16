@@ -29,7 +29,7 @@
 
 ### 📚 Publications
 
-- **Kiwon Eom**, Dongsu Kim, Tae-Woo Oh, Han Eol Jang. *ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.* _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)
+- **Kiwon Eom**, Dongsu Kim, Tae-Woo Oh, Han Eol Jang. *ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.* _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)
 
 
 ### ⚡ ExtraCurricular Activity

@@ -75,19 +75,19 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
  </div>
  
 ## 🏆 Dacon competitions
-Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm still have so much to develop.
-- 🏅 데이콘 Basic 여행 상품 신청 여부 예측 경진대회 - **2nd placed (2/357)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
-- 🥉 SW중심대학 공동 AI 경진대회 예선 - **Top 5% (8/192)** [[overview](https://dacon.io/competitions/official/235902/overview/description)][[code](https://dacon.io/competitions/official/235902/codeshare/6157?page=1&dtype=vote)]
+Here is [my dacon profile page](https://dacon.io/myprofile/497780/home). I'm still have so much to develop.
+- 🏅 SW중심대학 공동 AI 경진대회 예선 - **4nd placed (4/17)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
+- 🥉 SW중심대학 공동 AI 경진대회 본선 - **Top 6% (16/271)** [[overview](https://dacon.io/competitions/official/235902/overview/description)]
 
 
 ## 🏆 Other Competitions
-- LG Aimers 4th  **3rd place in Private Score, Top 5 in Final**
+- 산불탐지 경진대회  **3rd place in Private Score, Top 5 in Final**
 
   
 [![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
 
   <!--
-**Kisooofficial/Kisooofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kiwonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...

@@ -71,17 +71,28 @@ If you want to see more information about me, here is my [**CV 📥**]()
   <img src="https://img.shields.io/badge/W%26B-FF7B00?style=flat-square&logo=wandb&logoColor=white" alt="wandb"/>
 
 
-
  </div>
  
 ## 🏆 Dacon competitions
-Here is [my dacon profile page](https://dacon.io/myprofile/497780/home). I'm still have so much to develop.
+profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my kaggle profile page](https://www.kaggle.com/kiwoneom) I'm still have so much to develop.
+- 🥉 2024년 SW중심대학 공동 AI 경진대회 예선 (팀명 : DSDK) - ** 2nd (2/13) ** [[overview](https://www.kaggle.com/competitions/hbnu-fake-audio-detection-competition/overview)]
+- 🥉 2025년 SW중심대학 공동 AI 경진대회 예선 (팀명 : K2E) - ** 5th (5/17)** [[overview](https://www.kaggle.com/competitions/fake-text-detection-competition/overview)]
 - 🥉 2025년 SW중심대학 공동 AI 경진대회 본선 (팀명 : K2E) - **Top 6% (16/271)** [[overview](https://dacon.io/competitions/official/236473/overview/description)]
 
 
 ## 🏆 Other Competitions
 - 제6회 2024 연구개발특구 AI SPARK 챌린지(위성 다분광 영상 기반 산불 탐지) **대상, Top 1 in Final** [[overview](https://aifactory.space/task/2723/overview)]
 
+ </div>
+
+ ## 🚀 Projects
+ 
+   ### Regional Weight Module for Deepfake Detection
+   - Period: Sep 2024 - Dec 2024
+   - Role: Team Lead
+   - Tech stack: Python, Raspberry Pi 4, OpenCV, SQLite, MQTT 
+   - Description: Developed a face-recognition retrofit for an existing door lock to enhance security: the system captures images at the door, performs on-device real-time face recognition, logs access events, and controls the lock mechanism via GPIO. Implemented photo capture for audit trails and optional remote alerts for unrecognized access attempts.
+ 
   
   <!--
 **Kiwonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

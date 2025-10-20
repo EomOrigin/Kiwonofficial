@@ -101,7 +101,7 @@ profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my k
    - [[overview](https://www.kaggle.com/competitions/image-classification-hbnu-ai-2025-spring/overview)]
   
   <!--
-**Kiwonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kiwon's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
 
 
 - 🔭 I’m currently working on ...

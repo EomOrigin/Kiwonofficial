@@ -76,12 +76,11 @@ If you want to see more information about me, here is my [**CV 📥**]()
  
 ## 🏆 Dacon competitions
 Here is [my dacon profile page](https://dacon.io/myprofile/497780/home). I'm still have so much to develop.
-- 🏅 SW중심대학 공동 AI 경진대회 예선 - **4nd placed (4/17)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
-- 🥉 SW중심대학 공동 AI 경진대회 본선 - **Top 6% (16/271)** [[overview](https://dacon.io/competitions/official/235902/overview/description)]
+- 🥉 2025년 SW중심대학 공동 AI 경진대회 본선 (팀명 : K2E) - **Top 6% (16/271)** [[overview](https://dacon.io/competitions/official/236473/overview/description)]
 
 
 ## 🏆 Other Competitions
-- 산불탐지 경진대회  **3rd place in Private Score, Top 5 in Final**
+- 제6회 2024 연구개발특구 AI SPARK 챌린지(위성 다분광 영상 기반 산불 탐지) **대상, Top 1 in Final** [[overview](https://aifactory.space/task/2723/overview)]
 
   
   <!--

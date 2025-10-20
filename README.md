@@ -93,7 +93,7 @@ profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my k
    - Tech stack: Python, Raspberry Pi 4, OpenCV, SQLite, MQTT 
    - Description: Developed a face-recognition retrofit for an existing door lock to enhance security: the system captures images at the door, performs on-device real-time face recognition, logs access events, and controls the lock mechanism via GPIO. Implemented photo capture for audit trails and optional remote alerts for unrecognized access attempts.
 
-    ### Kaggle Challenge : Image Classification(HBNU, AI, 2025-Spring)
+  ### Kaggle Challenge(Image Classification, AI, 2025-Spring)
    - Period: 2025.03 - 2025.06
    - Role: Team Lead
    - Tech stack: Python, Pytorch

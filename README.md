@@ -29,7 +29,8 @@
 
 ### 📚 Publications
 
-- **ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.** _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131._ [[KCI Link](https://www.kci.go.kr/...)] [PDF](./디지털포렌식학회_2025/눈·코·입 영역 강조 가중치를 활용한 ViT 기반 딥페이크 탐지 기법 연구.pdf)
+- **ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.** _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131._ [[KCI Link](https://www.kci.go.kr/...)] [PDF](./눈·코·입 영역 강조 가중치를 활용한 ViT 기반 딥페이크 탐지 기법 연구.pdf)
+
 
 
 

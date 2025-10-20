@@ -75,8 +75,8 @@ If you want to see more information about me, here is my [**CV 📥**]()
  
 ## 🏆 Dacon competitions
 profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my kaggle profile page](https://www.kaggle.com/kiwoneom) I'm still have so much to develop.
-- 🥉 2024년 SW중심대학 공동 AI 경진대회 예선 (팀명 : DSDK) - ** 2nd (2/13) ** [[overview](https://www.kaggle.com/competitions/hbnu-fake-audio-detection-competition/overview)]
-- 🥉 2025년 SW중심대학 공동 AI 경진대회 예선 (팀명 : K2E) - ** 5th (5/17)** [[overview](https://www.kaggle.com/competitions/fake-text-detection-competition/overview)]
+- 🥉 2024년 SW중심대학 공동 AI 경진대회 예선 (팀명 : DSDK) - **Finished 2nd (2/13)** [[overview](https://www.kaggle.com/competitions/hbnu-fake-audio-detection-competition/overview)]
+- 🥉 2025년 SW중심대학 공동 AI 경진대회 예선 (팀명 : K2E) - **Finished 5th (5/17)** [[overview](https://www.kaggle.com/competitions/fake-text-detection-competition/overview)]
 - 🥉 2025년 SW중심대학 공동 AI 경진대회 본선 (팀명 : K2E) - **Top 6% (16/271)** [[overview](https://dacon.io/competitions/official/236473/overview/description)]
 
 
@@ -87,12 +87,18 @@ profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my k
 
  ## 🚀 Projects
  
-   ### Regional Weight Module for Deepfake Detection
-   - Period: Sep 2024 - Dec 2024
+   ### Smart Face-Recognition Door Lock
+   - Period: 2024.09 - 2024.12
    - Role: Team Lead
    - Tech stack: Python, Raspberry Pi 4, OpenCV, SQLite, MQTT 
    - Description: Developed a face-recognition retrofit for an existing door lock to enhance security: the system captures images at the door, performs on-device real-time face recognition, logs access events, and controls the lock mechanism via GPIO. Implemented photo capture for audit trails and optional remote alerts for unrecognized access attempts.
- 
+
+    ### Kaggle Challenge : Image Classification(HBNU, AI, 2025-Spring)
+   - Period: 2025.03 - 2025.06
+   - Role: Team Lead
+   - Tech stack: Python, Pytorch
+   - Description: DTrained an image-classification model to determine whether a given image is a live (genuine) human face or a spoof (attack) face, achieving 98.33% accuracy
+   - [[overview](https://www.kaggle.com/competitions/image-classification-hbnu-ai-2025-spring/overview)]
   
   <!--
 **Kiwonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

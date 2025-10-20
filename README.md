@@ -99,10 +99,12 @@ profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my k
    - Tech stack: Python, Pytorch
    - Description: DTrained an image-classification model to determine whether a given image is a live (genuine) human face or a spoof (attack) face, achieving 98.33% accuracy
    - [[overview](https://www.kaggle.com/competitions/image-classification-hbnu-ai-2025-spring/overview)]
-  
-  <!--
+
 [![KiwonEom's github stats](https://github-readme-stats.vercel.app/api?username=EomOrigin&show_icons=true&theme=tokyonight)](https://github.com/EomOrigin)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EomOrigin&layout=compact&theme=tokyonight)
+  
+  <!--
+
 
 
 - 🔭 I’m currently working on ...

@@ -29,9 +29,9 @@
 
 ### 📚 Publications
 
-- **ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.** _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [[KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)]
+- **ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.** _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [[Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)]
 
-- **YOLO-Dos: Improving YOLO-Based SAR Object Detection Performance via a Speckle Suppression Module** _Journal of the Institute of Korean Electrical and Electronic Engineers, 2026, vol.30, no.1, pp.171–181. [[KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003322680)]
+- **YOLO-Dos: Improving YOLO-Based SAR Object Detection Performance via a Speckle Suppression Module** _Journal of the Institute of Korean Electrical and Electronic Engineers, 2026, vol.30, no.1, pp.171–181. [[Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003322680)]
 
 
 ### ⚡ ExtraCurricular Activity
@@ -99,9 +99,15 @@ profile : [my dacon profile page](https://dacon.io/myprofile/497780/home), [my k
    - Period: 2025.03 - 2025.06
    - Role: Team Lead
    - Tech stack: Python, Pytorch
-   - Description: DTrained an image-classification model to determine whether a given image is a live (genuine) human face or a spoof (attack) face, achieving 98.33% accuracy
+   - Description: Trained an image-classification model to determine whether a given image is a live (genuine) human face or a spoof (attack) face, achieving 98.33% accuracy
    - [[overview](https://www.kaggle.com/competitions/image-classification-hbnu-ai-2025-spring/overview)]
 
+  ### Kaggle Challenge(Clouds Segmentation, AI, 2025 Fall, Hanbat National University)
+   - Period: 2025.09 - 2025.12
+   - Role: Team Lead
+   - Tech stack: Python, Pytorch
+   - Description: Trained a semantic segmentation model to extract and classify three types of clouds (thick, thin, and shadows) from satellite imagery, securing 2nd place with a score of 0.8555.
+   - [[overview](https://www.kaggle.com/competitions/clouds-segmentation-2025/overview)]
 
 
 [![KiwonEom's github stats](https://github-readme-stats.vercel.app/api?username=EomOrigin&show_icons=true&theme=tokyonight)](https://github.com/EomOrigin)

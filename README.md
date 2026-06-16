@@ -31,7 +31,7 @@
 
 - **ViT-based Deepfake Detection via Regional Emphasis Weights on Eyes, Nose, and Mouth.** _Digital Forensics Research, 2025, vol.19, no.4, pp.116–131. [[KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484)]
 
-- **YOLO-Dos: Improving YOLO-Based SAR Object Detection Performance via a Speckle Suppression Module** _Journal of the Institute of Korean Electrical and Electronic Engineers, 2026, vol.30, no.1, pp.171–181. [[KCI Link]([https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243484](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003322680)]
+- **YOLO-Dos: Improving YOLO-Based SAR Object Detection Performance via a Speckle Suppression Module** _Journal of the Institute of Korean Electrical and Electronic Engineers, 2026, vol.30, no.1, pp.171–181. [[KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003322680)]
 
 
 ### ⚡ ExtraCurricular Activity
